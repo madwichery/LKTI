@@ -1,0 +1,3546 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="edit_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="24.9469387755" vpos="47696" h="0.0000000000" zoom="48.0219240838" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="COMMENTS" value="MP3s from quranicaudio.com"/>
+		<tag name="GENRE" value="Other"/>
+		<tag name="ARTIST" value="Aziz_Alili"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="TITLE" value="Surat Al-Fatiha"/>
+		<tag name="ALBUM" value="(C) VerseByVerseQuran.com Aziz_Alili"/>
+	</tags>
+	<wavetrack name="001000_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="268416">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a04.au" len="262144" min="-0.20378" max="0.292326" rms="0.04377"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000b53.au" len="6272" min="-0.003728" max="0.00518" rms="0.000462"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="268416">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000279.au" len="262144" min="-0.200514" max="0.280954" rms="0.038718"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00008fe.au" len="6272" min="-0.006264" max="0.006624" rms="0.000659"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="275328">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008b7.au" len="262144" min="-0.309257" max="0.452076" rms="0.050469"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00006c8.au" len="13184" min="-0.003272" max="0.003458" rms="0.000557"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="275328">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002b8.au" len="262144" min="-0.312014" max="0.455978" rms="0.047642"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000068c.au" len="13184" min="-0.005263" max="0.004451" rms="0.000702"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="444672">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000317.au" len="262144" min="-0.350684" max="0.493784" rms="0.076756"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000d55.au" len="182528" min="-0.3006" max="0.445919" rms="0.083598"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="444672">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ab7.au" len="262144" min="-0.368761" max="0.501482" rms="0.072526"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000046a.au" len="182528" min="-0.307431" max="0.451525" rms="0.078121"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="380160">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000abf.au" len="262144" min="-0.270704" max="0.401288" rms="0.061874"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000031e.au" len="118016" min="-0.134874" max="0.221059" rms="0.032014"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="380160">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c5c.au" len="262144" min="-0.269021" max="0.379749" rms="0.059039"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000cf2.au" len="118016" min="-0.095887" max="0.184261" rms="0.024251"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="320256">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bd.au" len="262144" min="-0.463261" max="0.584536" rms="0.093079"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000380.au" len="58112" min="-0.080388" max="0.062371" rms="0.009959"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="320256">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ae5.au" len="262144" min="-0.479459" max="0.587122" rms="0.092454"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000d5d.au" len="58112" min="-0.07158" max="0.062199" rms="0.008482"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="506880">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005ac.au" len="262144" min="-0.462671" max="0.592463" rms="0.107437"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000617.au" len="244736" min="-0.446213" max="0.566573" rms="0.082017"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="506880">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004a3.au" len="262144" min="-0.511535" max="0.659741" rms="0.107701"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000081c.au" len="244736" min="-0.431156" max="0.556005" rms="0.082068"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="412416">
+				<waveblock start="0">
+					<simpleblockfile filename="e000006c.au" len="262144" min="-0.476199" max="0.589391" rms="0.104665"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000306.au" len="150272" min="-0.371571" max="0.37881" rms="0.06968"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="412416">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fe7.au" len="262144" min="-0.503495" max="0.58566" rms="0.10249"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000690.au" len="150272" min="-0.341426" max="0.393029" rms="0.071277"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdul_Basit_Mujawwad_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1100160">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007d5.au" len="262144" min="-0.606841" max="0.719799" rms="0.129551"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00005f1.au" len="262144" min="-0.505043" max="0.736984" rms="0.120364"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000489.au" len="262144" min="-0.515341" max="0.653269" rms="0.128262"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000ad8.au" len="262144" min="-0.578055" max="0.684974" rms="0.119686"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e00003fe.au" len="51584" min="-0.000743" max="0.00113" rms="0.000228"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdul_Basit_Mujawwad_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1100160">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000210.au" len="262144" min="-0.706093" max="0.692995" rms="0.127915"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00001da.au" len="262144" min="-0.524934" max="0.710665" rms="0.115914"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000145.au" len="262144" min="-0.553315" max="0.670612" rms="0.130265"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000d41.au" len="262144" min="-0.565359" max="0.661333" rms="0.123782"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e00001a1.au" len="51584" min="-0.001643" max="0.001624" rms="0.000281"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101376">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003ce.au" len="101376" min="-0.275529" max="0.223334" rms="0.044965"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101376">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000715.au" len="101376" min="-0.288527" max="0.219848" rms="0.047553"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="97920">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c58.au" len="97920" min="-0.451812" max="0.346593" rms="0.04988"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="97920">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000123.au" len="97920" min="-0.472316" max="0.351594" rms="0.053946"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118656">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b80.au" len="118656" min="-0.507025" max="0.325706" rms="0.061776"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118656">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000718.au" len="118656" min="-0.53927" max="0.332907" rms="0.064815"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90432">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d80.au" len="90432" min="-0.438625" max="0.374772" rms="0.061317"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90432">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e9f.au" len="90432" min="-0.460781" max="0.387863" rms="0.065109"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101952">
+				<waveblock start="0">
+					<simpleblockfile filename="e000040b.au" len="101952" min="-0.423235" max="0.359879" rms="0.057691"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101952">
+				<waveblock start="0">
+					<simpleblockfile filename="e000023d.au" len="101952" min="-0.447542" max="0.393321" rms="0.068099"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000984.au" len="125568" min="-0.413723" max="0.297757" rms="0.066743"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e000078c.au" len="125568" min="-0.459204" max="0.344633" rms="0.07076"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="107712">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f9b.au" len="107712" min="-0.42324" max="0.339035" rms="0.065107"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="107712">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f31.au" len="107712" min="-0.43472" max="0.360336" rms="0.068775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdul_Basit_Murattal_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="291456">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c2f.au" len="262144" min="-0.535951" max="0.407829" rms="0.09603"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000074e.au" len="29312" min="-0.145409" max="0.144526" rms="0.028479"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdul_Basit_Murattal_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="291456">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005b2.au" len="262144" min="-0.618452" max="0.429321" rms="0.104066"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000c9b.au" len="29312" min="-0.176222" max="0.161123" rms="0.033447"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198144">
+				<waveblock start="0">
+					<simpleblockfile filename="e000059a.au" len="198144" min="-0.290667" max="0.228978" rms="0.047267"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198144">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a55.au" len="198144" min="-0.308644" max="0.231552" rms="0.049972"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="191232">
+				<waveblock start="0">
+					<simpleblockfile filename="e000032b.au" len="191232" min="-0.4731" max="0.375087" rms="0.060481"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="191232">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d6f.au" len="191232" min="-0.50418" max="0.373596" rms="0.065513"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="232704">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c65.au" len="232704" min="-0.544942" max="0.333278" rms="0.065078"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="232704">
+				<waveblock start="0">
+					<simpleblockfile filename="e000091d.au" len="232704" min="-0.587387" max="0.368623" rms="0.068294"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="176256">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f4a.au" len="176256" min="-0.458399" max="0.377752" rms="0.074443"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="176256">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000ef.au" len="176256" min="-0.495396" max="0.407818" rms="0.078883"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="199296">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a63.au" len="199296" min="-0.440473" max="0.369764" rms="0.060874"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="199296">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a22.au" len="199296" min="-0.493448" max="0.434024" rms="0.071679"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="246528">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e31.au" len="246528" min="-0.44004" max="0.323335" rms="0.070215"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="246528">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e61.au" len="246528" min="-0.491876" max="0.354306" rms="0.074328"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="210816">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000bc3.au" len="210816" min="-0.440209" max="0.357326" rms="0.068527"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="210816">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001ff.au" len="210816" min="-0.455189" max="0.379007" rms="0.072419"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdul_Basit_Murattal_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="578304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000576.au" len="262144" min="-0.57693" max="0.437462" rms="0.088931"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00000f6.au" len="262144" min="-0.556006" max="0.363033" rms="0.112104"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00000a3.au" len="54016" min="-0.153248" max="0.153124" rms="0.037967"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdul_Basit_Murattal_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="578304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000323.au" len="262144" min="-0.663089" max="0.447858" rms="0.090849"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000f34.au" len="262144" min="-0.59535" max="0.429575" rms="0.125812"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000f95.au" len="54016" min="-0.177912" max="0.168423" rms="0.044568"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="164736">
+				<waveblock start="0">
+					<simpleblockfile filename="e000033f.au" len="164736" min="-0.837134" max="0.611938" rms="0.100095"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="164736">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002e1.au" len="164736" min="-0.832459" max="0.664328" rms="0.100179"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="144000">
+				<waveblock start="0">
+					<simpleblockfile filename="e000091a.au" len="144000" min="-0.863381" max="0.877038" rms="0.078131"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="144000">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000acb.au" len="144000" min="-0.840998" max="0.825525" rms="0.077356"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="216576">
+				<waveblock start="0">
+					<simpleblockfile filename="e000027c.au" len="216576" min="-0.940474" max="0.927315" rms="0.171156"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="216576">
+				<waveblock start="0">
+					<simpleblockfile filename="e000084b.au" len="216576" min="-0.966329" max="0.936475" rms="0.167022"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="165888">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006fa.au" len="165888" min="-0.906712" max="0.926786" rms="0.155048"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="165888">
+				<waveblock start="0">
+					<simpleblockfile filename="e000082e.au" len="165888" min="-0.929867" max="0.894237" rms="0.15313"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="191232">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f99.au" len="191232" min="-0.873908" max="0.940431" rms="0.151111"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="191232">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000396.au" len="191232" min="-0.937286" max="0.815698" rms="0.146686"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="244224">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000dc8.au" len="244224" min="-1.043741" max="1.042024" rms="0.183971"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="244224">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009ee.au" len="244224" min="-1.04017" max="1.022732" rms="0.18027"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198144">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006c2.au" len="198144" min="-1.032593" max="1.029699" rms="0.160452"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198144">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b38.au" len="198144" min="-1.063304" max="1.034764" rms="0.157198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="618624">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000654.au" len="262144" min="-0.902256" max="0.956261" rms="0.173774"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000a82.au" len="262144" min="-0.916931" max="0.936866" rms="0.184983"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000a43.au" len="94336" min="-0.541565" max="0.493049" rms="0.090517"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullaah_3awwaad_Al-Juhaynee_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="618624">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fdf.au" len="262144" min="-0.934132" max="0.894016" rms="0.168923"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000744.au" len="262144" min="-0.908353" max="0.908932" rms="0.180299"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00004a5.au" len="94336" min="-0.553406" max="0.548993" rms="0.086262"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="96768">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000575.au" len="96768" min="-0.692852" max="0.550055" rms="0.104755"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="100224">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008a4.au" len="100224" min="-0.722798" max="0.591933" rms="0.117783"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81792">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000068.au" len="81792" min="-0.80924" max="0.568374" rms="0.091212"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="84672">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000774.au" len="84672" min="-0.705702" max="0.576242" rms="0.096963"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="103104">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e1b.au" len="103104" min="-0.732111" max="0.562459" rms="0.113101"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="93888">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000885.au" len="93888" min="-0.672672" max="0.506587" rms="0.105421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Basfar_32kbps" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="16000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="236736">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a97.au" len="236736" min="-0.681481" max="0.66758" rms="0.126104"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="249408">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f11.au" len="249408" min="-0.966691" max="0.933897" rms="0.090765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="249408">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007b9.au" len="249408" min="-0.961998" max="0.918007" rms="0.089718"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="126720">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b3b.au" len="126720" min="-0.972864" max="0.83376" rms="0.104013"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="126720">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ea7.au" len="126720" min="-0.969558" max="0.818396" rms="0.101943"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="89856">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000af9.au" len="89856" min="-0.524373" max="0.37758" rms="0.046467"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="89856">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e1c.au" len="89856" min="-0.516606" max="0.36851" rms="0.046327"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="96192">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007c1.au" len="96192" min="-0.804244" max="0.588111" rms="0.057245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="96192">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005c5.au" len="96192" min="-0.817806" max="0.618709" rms="0.055826"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="132480">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000098.au" len="132480" min="-0.630553" max="0.424278" rms="0.05727"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="132480">
+				<waveblock start="0">
+					<simpleblockfile filename="e000000d.au" len="132480" min="-0.66649" max="0.433044" rms="0.056886"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="121536">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cc0.au" len="121536" min="-0.846126" max="0.72724" rms="0.075174"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="121536">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008c6.au" len="121536" min="-0.82564" max="0.71655" rms="0.073756"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Basfar_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="294336">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fa6.au" len="262144" min="-0.788172" max="0.627423" rms="0.080036"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000068f.au" len="32192" min="-0.207018" max="0.160474" rms="0.033294"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Basfar_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="294336">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000056.au" len="262144" min="-0.718351" max="0.609011" rms="0.078535"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000995.au" len="32192" min="-0.210542" max="0.161319" rms="0.034794"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="300672">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001c7.au" len="262144" min="-1.009236" max="0.997712" rms="0.11652"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00006f8.au" len="38528" min="-0.032474" max="0.030618" rms="0.005355"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="300672">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fe9.au" len="262144" min="-1.009539" max="0.980865" rms="0.114804"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000c4a.au" len="38528" min="-0.025957" max="0.027196" rms="0.005876"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="244224">
+				<waveblock start="0">
+					<simpleblockfile filename="e000072e.au" len="244224" min="-1.005124" max="0.897562" rms="0.07122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="244224">
+				<waveblock start="0">
+					<simpleblockfile filename="e000013b.au" len="244224" min="-1.017294" max="0.883068" rms="0.070258"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="252288">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ca4.au" len="252288" min="-1.028883" max="0.875087" rms="0.109412"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="252288">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009e0.au" len="252288" min="-1.020168" max="0.870433" rms="0.106808"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="178560">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000157.au" len="178560" min="-0.527459" max="0.410438" rms="0.056502"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="178560">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000419.au" len="178560" min="-0.518944" max="0.401716" rms="0.056233"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="191232">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007fb.au" len="191232" min="-0.894367" max="0.627527" rms="0.06955"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="191232">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009dc.au" len="191232" min="-0.879747" max="0.645448" rms="0.067812"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="263808">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000eb0.au" len="262144" min="-0.661842" max="0.459306" rms="0.073868"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000196.au" len="1664" min="-0.014806" max="0.012973" rms="0.000738"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="263808">
+				<waveblock start="0">
+					<simpleblockfile filename="e000070d.au" len="262144" min="-0.680659" max="0.453539" rms="0.073285"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00009ec.au" len="1664" min="-0.013213" max="0.015435" rms="0.00084"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="241920">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005b5.au" len="241920" min="-0.856299" max="0.755145" rms="0.079619"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="241920">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c90.au" len="241920" min="-0.841716" max="0.749938" rms="0.077645"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Basfar_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="587520">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000808.au" len="262144" min="-0.838675" max="0.658076" rms="0.096155"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000255.au" len="262144" min="-0.701845" max="0.389332" rms="0.070449"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000d83.au" len="63232" min="-0.222768" max="0.165664" rms="0.047692"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Basfar_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="587520">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d76.au" len="262144" min="-0.763285" max="0.635998" rms="0.093632"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00008a1.au" len="262144" min="-0.698495" max="0.394394" rms="0.069792"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000f15.au" len="63232" min="-0.224182" max="0.164206" rms="0.049648"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="165888">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000168.au" len="165888" min="-0.737315" max="0.671801" rms="0.178475"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="165888">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d2a.au" len="165888" min="-0.737315" max="0.671801" rms="0.178475"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="150912">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f6c.au" len="150912" min="-0.587001" max="0.575199" rms="0.141635"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="150912">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007f7.au" len="150912" min="-0.587001" max="0.575199" rms="0.141635"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118080">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006bf.au" len="118080" min="-0.753387" max="0.710328" rms="0.174616"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118080">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000684.au" len="118080" min="-0.753387" max="0.710328" rms="0.174616"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="62784">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009bf.au" len="62784" min="-0.719643" max="0.577819" rms="0.208532"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="62784">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006a9.au" len="62784" min="-0.719643" max="0.577819" rms="0.208532"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="61056">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d7d.au" len="61056" min="-0.844879" max="0.620827" rms="0.24989"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="61056">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000609.au" len="61056" min="-0.844879" max="0.620827" rms="0.24989"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="141120">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000dd8.au" len="141120" min="-0.776409" max="0.586124" rms="0.170354"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="141120">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000eb9.au" len="141120" min="-0.776409" max="0.586124" rms="0.170354"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="88704">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a7c.au" len="88704" min="-0.892283" max="0.76467" rms="0.164155"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="88704">
+				<waveblock start="0">
+					<simpleblockfile filename="e000089a.au" len="88704" min="-0.892283" max="0.76467" rms="0.164155"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Matroud_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="301824">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000850.au" len="262144" min="-0.900338" max="0.663389" rms="0.234784"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000095.au" len="39680" min="-0.648091" max="0.322582" rms="0.128229"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdullah_Matroud_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="301824">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e95.au" len="262144" min="-0.900338" max="0.663389" rms="0.234784"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000022d.au" len="39680" min="-0.648091" max="0.322582" rms="0.128229"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="74304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d46.au" len="74304" min="-0.256242" max="0.498962" rms="0.024934"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="74304">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007a3.au" len="74304" min="-0.256242" max="0.498962" rms="0.024934"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67968">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003c3.au" len="67968" min="-0.180708" max="0.287762" rms="0.022355"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67968">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000732.au" len="67968" min="-0.180708" max="0.287762" rms="0.022355"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="99072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d58.au" len="99072" min="-0.56225" max="0.599094" rms="0.106302"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="99072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000053.au" len="99072" min="-0.569899" max="0.613633" rms="0.105317"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="68544">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f3b.au" len="68544" min="-0.535891" max="0.552542" rms="0.093439"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="68544">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000acf.au" len="68544" min="-0.568314" max="0.583528" rms="0.094924"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="76032">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002a9.au" len="76032" min="-0.437834" max="0.445037" rms="0.074763"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="76032">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007dc.au" len="76032" min="-0.421882" max="0.448876" rms="0.074204"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="108864">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000853.au" len="108864" min="-0.591385" max="0.610387" rms="0.134809"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="108864">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001bf.au" len="108864" min="-0.607172" max="0.614286" rms="0.128849"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="92736">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000944.au" len="92736" min="-0.6281" max="0.649338" rms="0.120724"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="92736">
+				<waveblock start="0">
+					<simpleblockfile filename="e000057d.au" len="92736" min="-0.622012" max="0.616355" rms="0.113205"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdurrahmaan_As-Sudais_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="256896">
+				<waveblock start="0">
+					<simpleblockfile filename="e000012b.au" len="256896" min="-0.6707" max="0.614527" rms="0.171082"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdurrahmaan_As-Sudais_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="256896">
+				<waveblock start="0">
+					<simpleblockfile filename="e000013c.au" len="256896" min="-0.581018" max="0.592191" rms="0.160171"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="146304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c3d.au" len="146304" min="-0.271086" max="0.52885" rms="0.030295"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="146304">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007b0.au" len="146304" min="-0.271086" max="0.52885" rms="0.030295"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="133632">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000afb.au" len="133632" min="-0.193117" max="0.305844" rms="0.02722"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="133632">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002e7.au" len="133632" min="-0.193117" max="0.305844" rms="0.02722"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="195840">
+				<waveblock start="0">
+					<simpleblockfile filename="e000052d.au" len="195840" min="-0.593667" max="0.6323" rms="0.129327"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="195840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000105.au" len="195840" min="-0.588273" max="0.633012" rms="0.128057"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="134784">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000bf.au" len="134784" min="-0.576501" max="0.577886" rms="0.113446"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="134784">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003e7.au" len="134784" min="-0.602878" max="0.617414" rms="0.115559"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="149760">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007fd.au" len="149760" min="-0.443533" max="0.480352" rms="0.090787"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="149760">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b3c.au" len="149760" min="-0.446158" max="0.504228" rms="0.090349"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="215424">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c81.au" len="215424" min="-0.625836" max="0.64002" rms="0.142143"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="215424">
+				<waveblock start="0">
+					<simpleblockfile filename="e000004d.au" len="215424" min="-0.642749" max="0.643056" rms="0.135592"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="183168">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009d2.au" len="183168" min="-0.654528" max="0.662455" rms="0.146837"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="183168">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d17.au" len="183168" min="-0.653227" max="0.648913" rms="0.137231"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdurrahmaan_As-Sudais_192kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="511488">
+				<waveblock start="0">
+					<simpleblockfile filename="e000027b.au" len="262144" min="-0.668045" max="0.635117" rms="0.179141"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000063e.au" len="249344" min="-0.596647" max="0.626655" rms="0.181303"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abdurrahmaan_As-Sudais_192kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="511488">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004bb.au" len="262144" min="-0.610313" max="0.640753" rms="0.168195"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000e4b.au" len="249344" min="-0.606763" max="0.628021" rms="0.169608"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="322560">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000213.au" len="262144" min="-0.455678" max="0.427115" rms="0.087726"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000d86.au" len="60416" min="-0.237737" max="0.16446" rms="0.074565"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="322560">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000692.au" len="262144" min="-0.388008" max="0.485288" rms="0.083663"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000ce3.au" len="60416" min="-0.22712" max="0.206235" rms="0.067274"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="145152">
+				<waveblock start="0">
+					<simpleblockfile filename="e000093b.au" len="145152" min="-0.455325" max="0.302846" rms="0.05653"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="145152">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000563.au" len="145152" min="-0.372048" max="0.358684" rms="0.054236"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="112896">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000537.au" len="112896" min="-0.468342" max="0.367413" rms="0.079589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="112896">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000afa.au" len="112896" min="-0.38742" max="0.455976" rms="0.074342"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="99648">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ea8.au" len="99648" min="-0.496799" max="0.412241" rms="0.080666"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="99648">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ab5.au" len="99648" min="-0.36533" max="0.471609" rms="0.07861"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="123840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c26.au" len="123840" min="-0.367551" max="0.366694" rms="0.066908"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="123840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fe4.au" len="123840" min="-0.333273" max="0.416915" rms="0.064984"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="141120">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006f2.au" len="141120" min="-0.39944" max="0.337992" rms="0.062001"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="141120">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003d6.au" len="141120" min="-0.383872" max="0.488458" rms="0.061627"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="124416">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ae0.au" len="124416" min="-0.424597" max="0.313475" rms="0.063608"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="124416">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009da.au" len="124416" min="-0.329499" max="0.335583" rms="0.060591"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abu_Bakr_Ash-Shaatree_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="436032">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000904.au" len="262144" min="-0.361949" max="0.288362" rms="0.073803"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000a9a.au" len="173888" min="-0.283139" max="0.276519" rms="0.056842"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abu_Bakr_Ash-Shaatree_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="436032">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000be5.au" len="262144" min="-0.311862" max="0.336111" rms="0.065289"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000ceb.au" len="173888" min="-0.214236" max="0.29863" rms="0.050765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="322560">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003e2.au" len="262144" min="-0.455678" max="0.427115" rms="0.087726"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000096c.au" len="60416" min="-0.237737" max="0.16446" rms="0.074565"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="322560">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005d6.au" len="262144" min="-0.388008" max="0.485288" rms="0.083663"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000430.au" len="60416" min="-0.22712" max="0.206235" rms="0.067274"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="284544">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fa8.au" len="262144" min="-0.468996" max="0.316966" rms="0.072828"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00006c1.au" len="22400" min="-0.016501" max="0.015052" rms="0.002747"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="284544">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006ab.au" len="262144" min="-0.394304" max="0.385201" rms="0.070134"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000b3f.au" len="22400" min="-0.022758" max="0.018685" rms="0.002781"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="220032">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cea.au" len="220032" min="-0.50779" max="0.404689" rms="0.083641"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="220032">
+				<waveblock start="0">
+					<simpleblockfile filename="e000050c.au" len="220032" min="-0.405583" max="0.482658" rms="0.078196"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="193536">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d53.au" len="193536" min="-0.532655" max="0.433101" rms="0.09802"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="193536">
+				<waveblock start="0">
+					<simpleblockfile filename="e000037c.au" len="193536" min="-0.390015" max="0.495412" rms="0.095542"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="243072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000293.au" len="243072" min="-0.396252" max="0.38922" rms="0.070201"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="243072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a36.au" len="243072" min="-0.344632" max="0.432327" rms="0.068078"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="276480">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cb8.au" len="262144" min="-0.427156" max="0.378353" rms="0.079804"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000f6d.au" len="14336" min="-0.029838" max="0.032429" rms="0.005604"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="276480">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007f6.au" len="262144" min="-0.407539" max="0.513239" rms="0.079485"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00007b3.au" len="14336" min="-0.021382" max="0.028496" rms="0.003287"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="243072">
+				<waveblock start="0">
+					<simpleblockfile filename="e000069e.au" len="243072" min="-0.445422" max="0.31928" rms="0.066815"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="243072">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003da.au" len="243072" min="-0.35072" max="0.349758" rms="0.063593"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abu_Bakr_Ash-Shaatree_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="866304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000683.au" len="262144" min="-0.39187" max="0.265528" rms="0.076938"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000163.au" len="262144" min="-0.331419" max="0.288058" rms="0.079544"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00000b5.au" len="262144" min="-0.29741" max="0.294194" rms="0.070816"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e000058a.au" len="79872" min="-0.162713" max="0.109787" rms="0.019697"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Abu_Bakr_Ash-Shaatree_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="866304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000115.au" len="262144" min="-0.3268" max="0.342837" rms="0.066963"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000aef.au" len="262144" min="-0.319718" max="0.331486" rms="0.071153"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000d48.au" len="262144" min="-0.228819" max="0.31736" rms="0.06319"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000da0.au" len="79872" min="-0.131663" max="0.096454" rms="0.018307"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221184">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b60.au" len="221184" min="-0.364468" max="0.415112" rms="0.056212"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221184">
+				<waveblock start="0">
+					<simpleblockfile filename="e000055b.au" len="221184" min="-0.364468" max="0.415112" rms="0.056212"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="216576">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b09.au" len="216576" min="-0.342597" max="0.433746" rms="0.052301"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="216576">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d91.au" len="216576" min="-0.342597" max="0.433746" rms="0.052301"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221184">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c07.au" len="221184" min="-0.34956" max="0.37898" rms="0.049529"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221184">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001ca.au" len="221184" min="-0.34956" max="0.37898" rms="0.049529"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="188928">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008d0.au" len="188928" min="-0.320568" max="0.390342" rms="0.049958"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="188928">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008f1.au" len="188928" min="-0.320568" max="0.390342" rms="0.049958"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="184320">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006d7.au" len="184320" min="-0.355063" max="0.424367" rms="0.051509"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="184320">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000624.au" len="184320" min="-0.355063" max="0.424367" rms="0.051509"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="228096">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c6e.au" len="228096" min="-0.468369" max="0.539546" rms="0.083054"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="228096">
+				<waveblock start="0">
+					<simpleblockfile filename="e000096a.au" len="228096" min="-0.467654" max="0.539546" rms="0.082935"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="223488">
+				<waveblock start="0">
+					<simpleblockfile filename="e000005a.au" len="223488" min="-0.438939" max="0.526951" rms="0.061909"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="223488">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001927.au" len="223488" min="-0.438939" max="0.526951" rms="0.061907"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ahmed_Neana_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="580608">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001161.au" len="262144" min="-0.496753" max="0.578426" rms="0.072336"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00010db.au" len="262144" min="-0.427918" max="0.547613" rms="0.086226"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00019eb.au" len="56320" min="-0.155486" max="0.145669" rms="0.029742"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ahmed_Neana_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="580608">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001fc8.au" len="262144" min="-0.496753" max="0.578426" rms="0.072336"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001800.au" len="262144" min="-0.427918" max="0.547613" rms="0.086226"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00014b5.au" len="56320" min="-0.155486" max="0.145669" rms="0.029742"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="137088">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e83.au" len="137088" min="-0.878804" max="0.464103" rms="0.088757"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="137088">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001b01.au" len="137088" min="-0.84566" max="0.446153" rms="0.085353"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="109440">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001c66.au" len="109440" min="-0.699317" max="0.460097" rms="0.076287"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="109440">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001fe6.au" len="109440" min="-0.699317" max="0.460097" rms="0.076287"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198144">
+				<waveblock start="0">
+					<simpleblockfile filename="e00015f1.au" len="198144" min="-0.505007" max="0.332123" rms="0.089602"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="198144">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001d1b.au" len="198144" min="-0.50521" max="0.329671" rms="0.088506"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="149760">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001d2e.au" len="149760" min="-0.493533" max="0.382317" rms="0.104211"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="149760">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001b7b.au" len="149760" min="-0.49821" max="0.38179" rms="0.102325"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="137088">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001abb.au" len="137088" min="-0.411427" max="0.318252" rms="0.085312"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="137088">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e59.au" len="137088" min="-0.413618" max="0.326785" rms="0.084099"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="220032">
+				<waveblock start="0">
+					<simpleblockfile filename="e00016dc.au" len="220032" min="-0.460795" max="0.328553" rms="0.09173"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="220032">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011c9.au" len="220032" min="-0.460795" max="0.328553" rms="0.090722"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="154368">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013b5.au" len="154368" min="-0.437985" max="0.331293" rms="0.086666"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="154368">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011e6.au" len="154368" min="-0.439923" max="0.32438" rms="0.085827"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="733824">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001f5a.au" len="262144" min="-0.553195" max="0.442145" rms="0.116391"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00013b1.au" len="262144" min="-0.493507" max="0.468425" rms="0.102277"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00018ae.au" len="209536" min="-0.50087" max="0.427537" rms="0.093372"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ahmed_ibn_Ali_al-Ajamy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="733824">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001fbc.au" len="262144" min="-0.548888" max="0.442108" rms="0.115079"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000182b.au" len="262144" min="-0.496367" max="0.450629" rms="0.101082"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0001a88.au" len="209536" min="-0.487544" max="0.430084" rms="0.092707"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="137088">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e4f.au" len="137088" min="-0.878804" max="0.464103" rms="0.088757"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="137088">
+				<waveblock start="0">
+					<simpleblockfile filename="e000151d.au" len="137088" min="-0.84566" max="0.446153" rms="0.085353"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="107136">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013f3.au" len="107136" min="-0.430135" max="0.422247" rms="0.035141"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="107136">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001eaa.au" len="107136" min="-0.430135" max="0.422247" rms="0.035141"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="199296">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e44.au" len="199296" min="-0.55566" max="0.387418" rms="0.101416"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="199296">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001555.au" len="199296" min="-0.55566" max="0.387418" rms="0.101416"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="158976">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e73.au" len="158976" min="-0.569207" max="0.407175" rms="0.116751"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="158976">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001f20.au" len="158976" min="-0.569207" max="0.407175" rms="0.116751"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="145152">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001d55.au" len="145152" min="-0.470778" max="0.359801" rms="0.095891"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="145152">
+				<waveblock start="0">
+					<simpleblockfile filename="e000185e.au" len="145152" min="-0.470778" max="0.359801" rms="0.095891"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="229248">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013d5.au" len="229248" min="-0.548769" max="0.38979" rms="0.103759"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="229248">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001bd8.au" len="229248" min="-0.548769" max="0.38979" rms="0.103759"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="156672">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001360.au" len="156672" min="-0.508084" max="0.380226" rms="0.09755"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="156672">
+				<waveblock start="0">
+					<simpleblockfile filename="e000103b.au" len="156672" min="-0.508084" max="0.380226" rms="0.09755"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="488448">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001bbe.au" len="262144" min="-0.645243" max="0.545649" rms="0.131256"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001d57.au" len="226304" min="-0.573332" max="0.388776" rms="0.109208"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ahmed_ibn_Ali_al-Ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="488448">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001951.au" len="262144" min="-0.645243" max="0.545649" rms="0.131256"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00018ed.au" len="226304" min="-0.573332" max="0.388776" rms="0.109208"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="186624">
+				<waveblock start="0">
+					<simpleblockfile filename="e00014cd.au" len="186624" min="-0.412975" max="0.607337" rms="0.157943"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="186624">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001812.au" len="186624" min="-0.412975" max="0.607337" rms="0.157869"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="148608">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001746.au" len="148608" min="-0.365964" max="0.586069" rms="0.105072"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="148608">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001ba9.au" len="148608" min="-0.365964" max="0.586069" rms="0.105058"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="273024">
+				<waveblock start="0">
+					<simpleblockfile filename="e00019dc.au" len="262144" min="-0.514616" max="0.543887" rms="0.146078"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001d8f.au" len="10880" min="-0.058692" max="0.040617" rms="0.005496"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="273024">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001afc.au" len="262144" min="-0.514616" max="0.543887" rms="0.146078"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001936.au" len="10880" min="-0.058692" max="0.040617" rms="0.005496"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="237312">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001ab9.au" len="237312" min="-0.508959" max="0.498689" rms="0.125181"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="237312">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001140.au" len="237312" min="-0.508959" max="0.498689" rms="0.125159"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="243072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001162.au" len="243072" min="-0.484752" max="0.418639" rms="0.118108"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="243072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001367.au" len="243072" min="-0.484752" max="0.418639" rms="0.118108"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="313344">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001bc9.au" len="262144" min="-0.500918" max="0.520303" rms="0.151216"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001885.au" len="51200" min="-0.461735" max="0.454545" rms="0.131285"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="313344">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001fb2.au" len="262144" min="-0.500918" max="0.515233" rms="0.15111"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001e5c.au" len="51200" min="-0.457061" max="0.449145" rms="0.131151"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="269568">
+				<waveblock start="0">
+					<simpleblockfile filename="e00016c9.au" len="262144" min="-0.539262" max="0.56154" rms="0.140839"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001cd0.au" len="7424" min="-0.06077" max="0.054944" rms="0.006275"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="269568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001511.au" len="262144" min="-0.539262" max="0.561549" rms="0.140782"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00015ea.au" len="7424" min="-0.060663" max="0.054944" rms="0.006275"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Akram_AlAlaqimy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="686592">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001267.au" len="262144" min="-0.530859" max="0.523167" rms="0.153673"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00019bf.au" len="262144" min="-0.475809" max="0.493594" rms="0.138128"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e000188f.au" len="162304" min="-0.443129" max="0.432823" rms="0.140756"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Akram_AlAlaqimy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="686592">
+				<waveblock start="0">
+					<simpleblockfile filename="e000152f.au" len="262144" min="-0.530859" max="0.523167" rms="0.153613"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001e3f.au" len="262144" min="-0.475809" max="0.493594" rms="0.138125"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00019fb.au" len="162304" min="-0.443129" max="0.432823" rms="0.140756"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="134784">
+				<waveblock start="0">
+					<simpleblockfile filename="e00019fd.au" len="134784" min="-0.380571" max="0.332713" rms="0.064269"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="134784">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011e0.au" len="134784" min="-0.373114" max="0.368429" rms="0.064678"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001752.au" len="125568" min="-0.44363" max="0.562072" rms="0.093215"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e00012eb.au" len="125568" min="-0.4709" max="0.514079" rms="0.093049"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="104256">
+				<waveblock start="0">
+					<simpleblockfile filename="e00016ad.au" len="104256" min="-0.45392" max="0.593018" rms="0.074945"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="104256">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001f65.au" len="104256" min="-0.454266" max="0.596892" rms="0.076404"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="104832">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001a32.au" len="104832" min="-0.348601" max="0.368582" rms="0.081071"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="104832">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001257.au" len="104832" min="-0.35591" max="0.353023" rms="0.078642"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="150336">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001941.au" len="150336" min="-0.45122" max="0.48656" rms="0.072513"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="150336">
+				<waveblock start="0">
+					<simpleblockfile filename="e000152e.au" len="150336" min="-0.433371" max="0.515587" rms="0.073548"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001278.au" len="125568" min="-0.573335" max="0.520284" rms="0.09035"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001fe7.au" len="125568" min="-0.519023" max="0.553396" rms="0.091629"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Alafasy_64kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="294336">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001127.au" len="262144" min="-0.448667" max="0.546631" rms="0.096158"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000134f.au" len="32192" min="-0.170077" max="0.204245" rms="0.032535"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Alafasy_64kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="294336">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013db.au" len="262144" min="-0.470398" max="0.58766" rms="0.095701"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001cf0.au" len="32192" min="-0.15957" max="0.207845" rms="0.032516"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="269568">
+				<waveblock start="0">
+					<simpleblockfile filename="e000138d.au" len="262144" min="-0.414211" max="0.366979" rms="0.083013"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001cad.au" len="7424" min="-0.028174" max="0.028834" rms="0.004065"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="269568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001bd4.au" len="262144" min="-0.39397" max="0.38898" rms="0.083556"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00011ea.au" len="7424" min="-0.034277" max="0.031168" rms="0.005298"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="247680">
+				<waveblock start="0">
+					<simpleblockfile filename="e000129e.au" len="247680" min="-0.484302" max="0.594455" rms="0.097999"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="247680">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011bf.au" len="247680" min="-0.4957" max="0.553252" rms="0.097942"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="205056">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001ebb.au" len="205056" min="-0.477668" max="0.641989" rms="0.078764"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="205056">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001888.au" len="205056" min="-0.473988" max="0.618759" rms="0.080437"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="206208">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001426.au" len="206208" min="-0.376978" max="0.393969" rms="0.085241"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="206208">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013ea.au" len="206208" min="-0.377622" max="0.399712" rms="0.082687"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="297216">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001248.au" len="262144" min="-0.47382" max="0.516479" rms="0.090974"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001c79.au" len="35072" min="-0.169865" max="0.233822" rms="0.043599"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="297216">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001265.au" len="262144" min="-0.453092" max="0.547405" rms="0.092079"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001c44.au" len="35072" min="-0.162347" max="0.213921" rms="0.046415"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="247680">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001c63.au" len="247680" min="-0.650757" max="0.554075" rms="0.095522"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="247680">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e5a.au" len="247680" min="-0.591239" max="0.584821" rms="0.096718"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Alafasy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="585216">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001396.au" len="262144" min="-0.467731" max="0.592266" rms="0.107596"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001508.au" len="262144" min="-0.29374" max="0.394184" rms="0.094696"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0001980.au" len="60928" min="-0.186068" max="0.211582" rms="0.04581"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Alafasy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="585216">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001f4e.au" len="262144" min="-0.498395" max="0.622084" rms="0.107216"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00012fc.au" len="262144" min="-0.324693" max="0.39606" rms="0.094274"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e000175f.au" len="60928" min="-0.162382" max="0.222057" rms="0.045713"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="158976">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001c3e.au" len="158976" min="-0.404331" max="0.476701" rms="0.081295"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="158976">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001eaf.au" len="158976" min="-0.404331" max="0.476701" rms="0.081295"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="182016">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001745.au" len="182016" min="-0.439402" max="0.444542" rms="0.083132"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="182016">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001eb6.au" len="182016" min="-0.439402" max="0.444542" rms="0.083111"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="210816">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e97.au" len="210816" min="-0.382366" max="0.477941" rms="0.075077"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="210816">
+				<waveblock start="0">
+					<simpleblockfile filename="e000186d.au" len="210816" min="-0.382366" max="0.477941" rms="0.075039"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="157824">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001292.au" len="157824" min="-0.415943" max="0.502216" rms="0.080033"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="157824">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011e7.au" len="157824" min="-0.415943" max="0.502216" rms="0.079987"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="152064">
+				<waveblock start="0">
+					<simpleblockfile filename="e000155d.au" len="152064" min="-0.467661" max="0.543593" rms="0.067188"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="152064">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001620.au" len="152064" min="-0.467661" max="0.543593" rms="0.067176"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="229248">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001dbb.au" len="229248" min="-0.425078" max="0.465427" rms="0.079129"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="229248">
+				<waveblock start="0">
+					<simpleblockfile filename="e000120a.au" len="229248" min="-0.425078" max="0.465427" rms="0.079129"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="175104">
+				<waveblock start="0">
+					<simpleblockfile filename="e000180a.au" len="175104" min="-0.448255" max="0.547192" rms="0.086039"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="175104">
+				<waveblock start="0">
+					<simpleblockfile filename="e000105a.au" len="175104" min="-0.448255" max="0.547192" rms="0.085964"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ali_Hajjaj_AlSuesy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="607104">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013c9.au" len="262144" min="-0.507962" max="0.630764" rms="0.097459"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00018e3.au" len="262144" min="-0.450779" max="0.520447" rms="0.135429"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0001ab0.au" len="82816" min="-0.276111" max="0.336708" rms="0.059564"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_Ali_Hajjaj_AlSuesy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="607104">
+				<waveblock start="0">
+					<simpleblockfile filename="e00016c5.au" len="262144" min="-0.507962" max="0.630764" rms="0.097459"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00017ef.au" len="262144" min="-0.450779" max="0.520447" rms="0.135429"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0001b2b.au" len="82816" min="-0.276111" max="0.336708" rms="0.059553"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001a55.au" len="125568" min="-0.839791" max="0.436087" rms="0.103088"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="125568">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001729.au" len="125568" min="-0.807969" max="0.417613" rms="0.099186"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="131328">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001770.au" len="131328" min="-0.487862" max="0.407004" rms="0.065543"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="131328">
+				<waveblock start="0">
+					<simpleblockfile filename="e00016b8.au" len="131328" min="-0.469426" max="0.395674" rms="0.063152"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="216576">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001583.au" len="216576" min="-0.599609" max="0.470587" rms="0.110028"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="216576">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001b06.au" len="216576" min="-0.583963" max="0.457556" rms="0.106298"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="155520">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001607.au" len="155520" min="-0.588322" max="0.438106" rms="0.125917"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="155520">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001a8b.au" len="155520" min="-0.576429" max="0.41495" rms="0.121357"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="140544">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e03.au" len="140544" min="-0.515033" max="0.376542" rms="0.103167"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="140544">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001f88.au" len="140544" min="-0.502162" max="0.356206" rms="0.099545"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="228096">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011eb.au" len="228096" min="-0.664442" max="0.400627" rms="0.112984"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="228096">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001a41.au" len="228096" min="-0.638424" max="0.388064" rms="0.109253"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="160128">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001e37.au" len="160128" min="-0.576723" max="0.426382" rms="0.106302"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="160128">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001930.au" len="160128" min="-0.558897" max="0.407305" rms="0.102765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_ahmed_ibn_ali_al_ajamy_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="502272">
+				<waveblock start="0">
+					<simpleblockfile filename="e00018f8.au" len="262144" min="-0.731579" max="0.538658" rms="0.144056"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000119d.au" len="240128" min="-0.501035" max="0.405739" rms="0.118613"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_ahmed_ibn_ali_al_ajamy_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="502272">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001ccf.au" len="262144" min="-0.715385" max="0.517565" rms="0.13916"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001b8a.au" len="240128" min="-0.49215" max="0.391047" rms="0.1147"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="270720">
+				<waveblock start="0">
+					<simpleblockfile filename="e00016fb.au" len="262144" min="-0.973201" max="0.935425" rms="0.177587"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001c72.au" len="8576" min="-0.015637" max="0.021806" rms="0.002315"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001000_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="270720">
+				<waveblock start="0">
+					<simpleblockfile filename="e00011aa.au" len="262144" min="-0.954839" max="0.982758" rms="0.178134"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001905.au" len="8576" min="-0.019252" max="0.011676" rms="0.001695"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="260352">
+				<waveblock start="0">
+					<simpleblockfile filename="e00019b5.au" len="260352" min="-1.007489" max="0.965468" rms="0.198205"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001001_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="260352">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001ccc.au" len="260352" min="-0.998808" max="0.989609" rms="0.192992"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="288000">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001cce.au" len="262144" min="-0.976696" max="0.988806" rms="0.18957"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00015b0.au" len="25856" min="-0.092429" max="0.083297" rms="0.012334"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001002_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="288000">
+				<waveblock start="0">
+					<simpleblockfile filename="e000107b.au" len="262144" min="-1.00056" max="0.979534" rms="0.205055"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00014be.au" len="25856" min="-0.076324" max="0.111137" rms="0.012013"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="178560">
+				<waveblock start="0">
+					<simpleblockfile filename="e00010dc.au" len="178560" min="-0.995986" max="0.990268" rms="0.210924"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001003_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="178560">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001f13.au" len="178560" min="-0.982885" max="0.97975" rms="0.204557"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="188928">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001254.au" len="188928" min="-0.978803" max="0.858119" rms="0.165408"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001004_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="188928">
+				<waveblock start="0">
+					<simpleblockfile filename="e000184c.au" len="188928" min="-0.976869" max="0.931516" rms="0.175227"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="283392">
+				<waveblock start="0">
+					<simpleblockfile filename="e00015cc.au" len="262144" min="-0.998365" max="0.979101" rms="0.222559"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001353.au" len="21248" min="-0.103548" max="0.09296" rms="0.01411"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001005_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="283392">
+				<waveblock start="0">
+					<simpleblockfile filename="e00017d8.au" len="262144" min="-0.994757" max="0.975596" rms="0.210747"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001bd3.au" len="21248" min="-0.051976" max="0.039642" rms="0.008422"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221184">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001264.au" len="221184" min="-0.986196" max="0.994905" rms="0.171972"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001006_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="221184">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001156.au" len="221184" min="-0.98419" max="0.996564" rms="0.180678"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_aziz_alili_128kbps" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="740736">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001b5c.au" len="262144" min="-1.004779" max="0.988162" rms="0.209235"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001b98.au" len="262144" min="-0.994811" max="0.983699" rms="0.247232"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0001d80.au" len="216448" min="-0.962492" max="0.981333" rms="0.241002"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="001007_aziz_alili_128kbps" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="740736">
+				<waveblock start="0">
+					<simpleblockfile filename="e000144f.au" len="262144" min="-0.987135" max="0.972197" rms="0.211591"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0001993.au" len="262144" min="-0.997188" max="0.982074" rms="0.251787"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0001490.au" len="216448" min="-0.980879" max="0.993464" rms="0.222872"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
