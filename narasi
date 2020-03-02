@@ -1,0 +1,7 @@
+berikut kami sampaikan hasil dari penerapan metode deep neural network pada machine learning untuk di implementasikan kepada pengenalan suara digital.
+adapun kasus yang kami ambil ini adalah tentang bagaimana membangun sebuah model machine learning yang dapat mengenali suara digital berupa pembacaan ayat suci alquran.
+kami mengambil contoh surat al fatihah yang di bawakan dengan irama khas syaikh abdurahman as sudais.
+pada kesempatan ini kami coba mendemokan hasil dari pembelajaran machine learning ini, disini kami mengambil data sample dari youtube. berikut adalah video nya [MEMAINKAN VIDEO]
+kemudian kami mengambil dan memotong data suara dari video tersebut menjadi beberapa bagian, berikut hasilnya [MEMAINKAN BEBERAPA DATA SUARA]
+lalu kami coba melakukan pengenalan untuk data-data tersebut dengan model jaringan syaraf tiruan yang sudah kami bangun [MENJALANKAN PROGRAM]
+dan berikut hasilnya [MENJELASKAN HASIL]

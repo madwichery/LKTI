@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sandimulyadi/Documents/skripsi/test/latihan6/models/tflearn.sudais_lstm_with_padding.model"
+all_model_checkpoint_paths: "/home/sandimulyadi/Documents/skripsi/test/latihan6/models/tflearn.sudais_lstm_with_padding.model"
