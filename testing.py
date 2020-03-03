@@ -38,13 +38,12 @@ net = tflearn.regression(net, optimizer='adam', learning_rate=0.0001, loss='cate
 model = tflearn.DNN(net, tensorboard_verbose=0)
 os.system('clear')
 for x in DATA_TESTS:
-    y, sr = librosa.load(PATH_TESTS + x, sr=None, mono=True)
-    emphasized_signal = np.append(y[0], y[1:] - 0.97 * y[:-1])
-    emphasized_signal = VektorReshape(emphasized_signal)
-    mfcc = librosa.feature.mfcc(emphasized_signal, sr)
-    model.load(param['model_name'])
     try:
-        
+        y, sr = librosa.load(PATH_TESTS + x, sr=None, mono=True)
+        emphasized_signal = np.append(y[0], y[1:] - 0.97 * y[:-1])
+        emphasized_signal = VektorReshape(emphasized_signal)
+        mfcc = librosa.feature.mfcc(emphasized_signal, sr)
+        model.load(param['model_name'])
         result 	= model.predict([mfcc])
         result 	= list(result[0])
         idx_v 	= max(result)

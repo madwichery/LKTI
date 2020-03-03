@@ -86,7 +86,7 @@ if BATCH not in batchs:
 net = tflearn.input_data([None, MFCCS[0].shape[0], MFCCS[0].shape[1]])
 net = tflearn.lstm(net, 128, dropout=0.8)
 net = tflearn.fully_connected(net, 8, activation='softmax')
-net = tflearn.regression(net, optimizer='adam', learning_rate=0.0001, loss='categorical_crossentropy')
+net = tflearn.regression(net, optimizer='adam', learning_rate=0.001, loss='categorical_crossentropy')
 
 model = tflearn.DNN(net, tensorboard_verbose=0)
 os.system('clear')
